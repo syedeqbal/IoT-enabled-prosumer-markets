@@ -12,4 +12,4 @@ on infrastructure. We describe two use cases; community-based car sharing and co
 present simulation results to check the efficacy of the algorithms.
 
 ## Citation
-Alam, S.E., Shorten, R., Wirth, F., Yu, J.Y. (2020). Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective. Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives. Springer, Cham. https://doi.org/10.1007/978-3-030-35032-1_9.
+Syed Eqbal Alam, Robert Shorten, Fabian Wirth, Jia Yuan Yu (2020). Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective. Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives. Springer, Cham. https://doi.org/10.1007/978-3-030-35032-1_9.

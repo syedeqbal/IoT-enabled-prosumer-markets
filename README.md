@@ -1,4 +1,11 @@
 # Distributed algorithms for Internet-of-Things-enabled prosumer markets: A control theoretic perspective
+## Authors and Affiliations
+
+- Syed Eqbal Alam & Jia Yuan Yu - Concordia Institute for Information Systems Engineering, Concordia University, Montreal, QC, Canada
+
+- Robert Shorten - Dyson School of Design Engineering, Imperial College London, London, UK
+
+- Fabian Wirth - Faculty of Computer Science and Mathematics, University of Passau, Passau, Germany
 
 ## Abstract
 Internet-of-Things (IoT) enables the development of sharing economy applications. In many sharing economy scenarios, agents both produce as

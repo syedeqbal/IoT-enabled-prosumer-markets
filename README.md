@@ -20,3 +20,11 @@ present simulation results to check the efficacy of the algorithms.
 
 ## Citation
 Syed Eqbal Alam, Robert Shorten, Fabian Wirth, Jia Yuan Yu, [Distributed Algorithms for Internet-of-Things-Enabled Prosumer Markets: A Control Theoretic Perspective](https://doi.org/10.1007/978-3-030-35032-1_9), Analytics for the Sharing Economy: Mathematics, Engineering and Business Perspectives, Springer, 2020.
+
+## Related Publications
+
+> S. E. Alam, R. Shorten, F. Wirth, and J. Y. Yu, "Communication-efficient Distributed Multi-resource Allocation," IEEE International Smart Cities Conference, 2018.
+
+> F. Wirth, S. Stuedli, J. Y. Yu, M. Corless, and R. Shorten, "Nonhomogeneous place-dependent Markov chains, unsynchronised AIMD, and network utility maximization," Journal of the ACM, 2019.
+
+> W. M. Griggs, J. Y. Yu, F. R. Wirth, F. Hausler, and R. Shorten, "On the design of campus parking systems with QoS guarantees," IEEE Trans. Intelligent Transportation Systems, vol. 17, no. 5, pp. 1428–1437, 2016.
